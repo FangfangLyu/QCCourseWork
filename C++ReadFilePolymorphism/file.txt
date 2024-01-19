@@ -1,0 +1,21 @@
+txt
+students
+500
+
+txt
+files
+120
+
+gif
+picture1
+100 x 200
+8
+
+gif
+picture2
+200 x 300
+16
+
+txt
+testfile
+450
