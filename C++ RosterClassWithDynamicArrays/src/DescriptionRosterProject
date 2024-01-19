@@ -1,0 +1,26 @@
+Main Menu 1/1
+rosters.txt 0/1 the logic for this doesn't seem to make sense, you're adding a student for every argument in the rosters.txt file
+growable roster array 1/1
+readability 1/1
+compiles 0/1 compiles but doesn't read the roster file due to some delimeter issues, I messed around with it, but I couldn't figure out what exactly you were trying to do with the delimeter check.
+
+SUPERVISOR MODE
+
+Password protection 2/2
+Create Roster 1/1
+Drop Roster 1/1
+Display Roster Info /1
+Display all Rosters 1/1 
+Select Roster 0/1 may return -1, could result in seg fault
+Insert Student 1/1
+Remove Student 1/1
+Update Student 1/1
+List Sorted Students 1/1
+
+
+USER MODE
+
+Select Roster 1/1
+Insert Student 1/1
+Remove Student 1/1
+Update Student 1/1
